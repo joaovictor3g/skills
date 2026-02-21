@@ -1,0 +1,31 @@
+q---
+name: desing-interface
+description: Design and build user interfaces only. Use when requests focus on screens, layouts, components, visual style, responsive behavior, and interaction states without implementing backend logic, APIs, databases, authentication, or business workflows.
+---
+
+# Desing Interface
+
+Build UI-only solutions.
+
+## Scope
+
+- Implement pages, sections, and reusable visual components.
+- Implement styling, spacing, typography, color systems, and visual hierarchy.
+- Implement responsive behavior for mobile, tablet, and desktop.
+- Implement UI states like loading, empty, error, hover, focus, and disabled.
+- Avoid backend work, data modeling, API integration, authentication, and server logic.
+
+## Workflow
+
+1. Clarify the interface goal, target users, and primary screen flows.
+2. Define a visual direction that matches the existing design system when present.
+3. Build semantic, accessible markup and keyboard-friendly interactions.
+4. Use mock or local static data when content is needed for presentation.
+5. Verify responsiveness and interaction states before handoff.
+
+## Output Standard
+
+- Deliver production-ready UI code for the requested scope.
+- Keep implementation modular and easy to extend.
+- Document any intentional placeholders where backend integration is expected later.
+
